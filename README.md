@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+After cloning the repo:
+ => open the terminal and move to the project directory
+ =>and type "npm install" and hit enter it will install all the dependencies
+
+ =>and then type and enter "npm run start"
+
+ =>the weather app will start a new tab in your default browser
+
+For production:
+
+=> type "npm run buld"
+    this command will build the app into the build folder
+
+=>we can link the built, optimised version of our code to our html page
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
