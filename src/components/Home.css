@@ -1,0 +1,35 @@
+.searchBar input{
+    width: 80%;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.searchBar button{
+    width: 20%;
+    padding: 15px;
+    border: 0;
+    border: 1px solid black;
+    border-radius: 0px 10px 10px 0px;
+    
+}
+
+
+input:focus{
+    outline: none;
+}
+
+
+.linkItem{
+    
+    border-radius: 5px;
+    text-decoration: none;
+    
+    
+}
+
+.linkItem a{
+    text-decoration: none;
+    color:#024dad;
+}
+

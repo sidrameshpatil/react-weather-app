@@ -1,0 +1,14 @@
+.weatherItem{
+    
+    border-radius: 15px;
+    
+    box-shadow: 2px 0px 20px -8px;
+}
+
+.infoBlock{
+    margin-bottom: 20px;
+}
+
+.infoBlock h6 {
+    margin-bottom: 0;
+}
